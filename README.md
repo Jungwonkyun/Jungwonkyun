@@ -29,7 +29,7 @@
   <img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@1_kyun/series"/></a>
   </a>
   <a href="mailto:wjddnjsrbs97@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Google-EA4335?style=for-the-badge-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Google-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   </p>
   
@@ -47,12 +47,18 @@
   
   <h3 align="center"><b>💻My Skills 💻</b></h3>
   <div display="flex">
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+        </br>
+      <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+    <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
+      <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+      <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+      <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+    
   </div>
   
   </br>
