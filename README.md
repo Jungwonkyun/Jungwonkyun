@@ -1,5 +1,7 @@
 
-<h1 align="center">Wonkyun's Development World</h1>
+
+![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=timeAuto&text=Wonkyun&nbsp;World&section=header&animation=scaleIn&fontSize=50)
+
 
 <div align="center">
 <!--   <pre class="java" data-ke-language="java" data-ke-type="codeblock">
@@ -11,6 +13,11 @@
   </pre> -->
   
   [![Jungwonkyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jungwonkyun)](https://github.com/Jungwonkyun/github-readme-stats)
+  
+  <br>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jungwonkyun&langs_count=8)](https://github.com/Jungwonkyun/github-readme-stats)
+  
   
   </br>
   <h3 align="center"><b>💌 Contact & Socail 💌 </b></h3>
@@ -35,9 +42,9 @@
  
   </p>
   
+  </br>
   
-  
-  
+  <h3 align="center"><b>💻My Skills 💻</b></h3>
   <div display="flex">
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
       <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
@@ -54,8 +61,9 @@
   </br>
   </br>
   
-  
-  <h3 align="center"><b> My ps Status </b></h3>
+  <h3 align="center"><b>🎮 My ps Status 🎮</b></h3>
   
   [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddnjsrbs97)](https://solved.ac/wjddnjsrbs97)
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=footer"/>
