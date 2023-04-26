@@ -2,7 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=timeAuto&text=Wonkyun&nbsp;World&section=header&animation=scaleIn&fontSize=50)
 
-
+    
+    
+    
 <div align="center">
 <!--   <pre class="java" data-ke-language="java" data-ke-type="codeblock">
     <code class="hljs">
@@ -11,13 +13,15 @@
       </span>
     </code>
   </pre> -->
+    
+  [![Jungwonkyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jungwonkyun)](https://github.com/Jungwonkyun/github-readme-stats)  
   
-  [![Jungwonkyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jungwonkyun)](https://github.com/Jungwonkyun/github-readme-stats)
+  <h3 align="center"><b>🎮 My ps Status 🎮</b></h3>
   
-  <br>
-  
-
-  </br>
+  [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddnjsrbs97)](https://solved.ac/wjddnjsrbs97)  
+   
+  </br>  
+    
   <h3 align="center"><b>💌 Contact & Socail 💌 </b></h3>
   </br>
   <p align="center">
@@ -37,7 +41,6 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
- 
   </p>
   
   </br>
@@ -53,15 +56,10 @@
   </div>
   
   </br>
-  </br>
   
-  </br>
-  </br>
-  </br>
   
-  <h3 align="center"><b>🎮 My ps Status 🎮</b></h3>
   
-  [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddnjsrbs97)](https://solved.ac/wjddnjsrbs97)
+  
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=footer"/> 
