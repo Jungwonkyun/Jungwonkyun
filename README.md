@@ -16,9 +16,7 @@
   
   <br>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jungwonkyun&langs_count=8)](https://github.com/Jungwonkyun/github-readme-stats)
-  
-  
+
   </br>
   <h3 align="center"><b>💌 Contact & Socail 💌 </b></h3>
   </br>
