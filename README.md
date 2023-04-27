@@ -16,7 +16,7 @@
     
   [![Jungwonkyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jungwonkyun)](https://github.com/Jungwonkyun/github-readme-stats)  
   
-  <h3 align="center"><b>🎮 My ps Status 🎮</b></h3>
+  <h3 align="center"><b>🎮 My PS Status 🎮</b></h3>
   
   [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddnjsrbs97)](https://solved.ac/wjddnjsrbs97)  
    
