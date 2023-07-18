@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=timeAuto&text=Wonkyun&nbsp;World🖐&section=header&animation=scaleIn&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=timeAuto&text=Wonkyun&nbsp;World&section=header&animation=scaleIn&fontSize=50)
 
     
     
