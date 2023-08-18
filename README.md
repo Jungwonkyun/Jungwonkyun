@@ -53,11 +53,21 @@
       <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
         </br>
       <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
-    <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
+      <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
       <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
       <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
       <img src="https://img.shields.io/badge/javascript-3572B6?style=for-the-badge&logo=javascript&logoColor=white"> 
       <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+          </br>
+      <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+      <img src="https://img.shields.io/badge/jpa-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+      <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
+      <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+        <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon s3&logoColor=white">
+ 
+
+     
     
   </div>
   
