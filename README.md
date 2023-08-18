@@ -11,8 +11,7 @@
       </span>
     </code>
   </pre> -->
-    
-  [![Jungwonkyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jungwonkyun)](https://github.com/Jungwonkyun/github-readme-stats)  
+
   
   <h3 align="center"><b>🎮 My PS Status 🎮</b></h3>
   
