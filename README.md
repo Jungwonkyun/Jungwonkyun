@@ -63,11 +63,9 @@
       <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
       <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
       <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-        <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon s3&logoColor=white">
- 
-
-     
-    
+      <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon s3&logoColor=white">
+      <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">  
+        
   </div>
   
   </br>
