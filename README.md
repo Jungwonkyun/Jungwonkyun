@@ -115,7 +115,7 @@
       <td style="width: 14%; height: 20px; text-align: center;">Web<br>Development & DevOps</td>
       <td style="width: 15%; height: 20px; text-align: center;">2023.07 ~ 2023.05</td>
       <td style="width: 60%; height: 20px; text-align: center;">MoneyMoa :<br>금융 예적금 비교분석 SNS</td>
-      <td style="width: 11%; height: 20px; text-align: center;">SpringBoot, Vue.js3 AWS EC2, Docker, Jenkins, AWS S3, Redis, MongoDB</td>
+      <td style="width: 11%; height: 20px; text-align: center;">SpringBoot, Vue.js3 AWS EC2, Docker, Jenkins, AWS S3, Redis, MongoDB, NGINX</td>
     </tr>
   </tbody>
 </table>
