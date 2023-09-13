@@ -12,6 +12,54 @@
     </code>
   </pre> -->
 
+
+<table style="border-collapse: collapse; width: 100%; height: 200px;"border="1" data-ke-align="center" align = "center">
+  <tbody>
+    <tr style="height: 20px;">
+      <td style="width: 14%; height: 20px; text-align: center;font-weight: 800;"><b>Type</b> </td>
+      <td style="width: 15%; height: 20px; text-align: center;font-weight: 800;"><b>Date</b></td>
+      <td style="width: 60%; height: 20px; text-align: center;font-weight: 800;"><b>Contents</b></td>
+      <td style="width: 11%; height: 20px; text-align: center;font-weight: 800;"><b>Stack</b></td>
+    </tr>
+    <tr style="height: 20px;">
+      <td style="width: 14%; height: 20px; text-align: center;">Education</td>
+      <td style="width: 15%; height: 20px; text-align: center;">2016.03 ~ 2023.02</td>
+      <td style="width: 60%; height: 20px; text-align: center;">대구경북과학기술원 컴퓨터공학과</td>
+      <td style="width: 11%; height: 20px; text-align: center;">&nbsp;</td>
+    </tr>
+    <tr style="height: 20px;">
+      <td style="width: 14%; height: 20px; text-align: center;">Education</td>
+      <td style="width: 15%; height: 20px; text-align: center;">2017.06<br> ~ 2017.08</td>
+      <td style="width: 60%; height: 20px; text-align: center;">UC Berkley 여름 교환 학생</td>
+      <td style="width: 11%; height: 20px; text-align: center;">&nbsp;</td>
+    </tr>
+    <tr style="height: 20px;">
+      <td style="width: 14%; height: 20px; text-align: center;">Lab<br>Intern</td>
+      <td style="width: 15%; height: 20px; text-align: center;">2020.12<br>~ 2021.02</td>
+      <td style="width: 60%; height: 20px; text-align: center;">SSD Flash Memory 연구 인턴</td>
+      <td style="width: 11%; height: 20px; text-align: center;">C++, Linux, Embedded System</td>
+    </tr>
+    <tr style="height: 20px;">
+      <td style="width: 14%; height: 20px; text-align: center;">Web<br>Development</td>
+      <td style="width: 15%; height: 20px; text-align: center;">2023.05 ~ 2023.06</td>
+      <td style="width: 60%; height: 20px; text-align: center;">HomeGuys : 부동산 정보 제공 사이트 개발</td>
+      <td style="width: 11%; height: 20px; text-align: center;">SpringBoot, Vue.js, MySQL</td>
+    </tr>
+    <tr style="height: 20px;">
+      <td style="width: 14%; height: 20px; text-align: center;">App<br>Development</td>
+      <td style="width: 15%; height: 20px; text-align: center;">2023.06 ~ 2023.08</td>
+      <td style="width: 60%; height: 20px; text-align: center;">GumiInsider :<br>아카데미 학생들을 위한 SNS앱 서비스</td>
+      <td style="width: 11%; height: 20px; text-align: center;">SpringBoot, React.js, Android, groom container, MySQL</td>
+    </tr>
+    <tr style="height: 20px;">
+      <td style="width: 14%; height: 20px; text-align: center;">Web<br>Development & DevOps</td>
+      <td style="width: 15%; height: 20px; text-align: center;">2023.07 ~ 2023.05</td>
+      <td style="width: 60%; height: 20px; text-align: center;">MoneyMoa :<br>금융 예적금 비교분석 SNS</td>
+      <td style="width: 11%; height: 20px; text-align: center;">SpringBoot, Vue.js3 AWS EC2, Docker, Jenkins, AWS S3, Redis, MongoDB</td>
+    </tr>
+  </tbody>
+</table>
+
   
   <h3 align="center"><b>🎮 My PS Status 🎮</b></h3>
   
