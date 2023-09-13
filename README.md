@@ -79,15 +79,15 @@
     </p>
     <p>
         <span style="font-family: 'Helvetica Neue', sans-serif; font-size: 18px; font-weight: bold; text-align: right; width: 120px; display: inline-block; margin-right: 50px;">2017.06 ~ 2017.08</span> &nbsp;&nbsp;&nbsp;
-        UC Berkeley 여름 교환 학생
+        UC Berkeley 여름 교환학생
     </p>
     <p>
         <span style="font-family: 'Helvetica Neue', sans-serif; font-size: 18px; font-weight: bold; text-align: right; width: 120px; display: inline-block; margin-right: 50px;">2020.12 ~ 2021.02</span> &nbsp;&nbsp;&nbsp;
-        SSD Flash Memory 연구 인턴
+        SSD Flash Memory 연구인턴
     </p>
     <p>
         <span style="font-family: 'Helvetica Neue', sans-serif; font-size: 18px; font-weight: bold; text-align: right; width: 120px; display: inline-block; margin-right: 50px;">2021.12 ~ 2022.02</span> &nbsp;&nbsp;&nbsp;
-        블록오디세이 블록체인 R&D 인턴
+        블록오디세이 블록체인 R&D인턴
     </p>
     <p>
         <span style="font-family: 'Helvetica Neue', sans-serif; font-size: 18px; font-weight: bold; text-align: right; width: 120px; display: inline-block; margin-right: 50px;">2023.01 ~ 2023.08</span> &nbsp;&nbsp;&nbsp;
