@@ -94,6 +94,12 @@
       <td style="width: 11%; height: 20px; text-align: center;">&nbsp;</td>
     </tr>
     <tr style="height: 20px;">
+      <td style="width: 14%; height: 20px; text-align: center;">Education</td>
+      <td style="width: 15%; height: 20px; text-align: center;">2023.01<br> ~ 2023.08</td>
+      <td style="width: 60%; height: 20px; text-align: center;">삼성 청년 소프트웨어 아카데미</td>
+      <td style="width: 11%; height: 20px; text-align: center;">&nbsp;</td>
+    </tr>
+    <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;">Lab<br>Intern</td>
       <td style="width: 15%; height: 20px; text-align: center;">2020.12<br>~ 2021.02</td>
       <td style="width: 60%; height: 20px; text-align: center;">SSD Flash Memory 연구 인턴</td>
