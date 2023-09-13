@@ -73,12 +73,28 @@
   </br>
     <h3 align="center"><b>👩‍🎓My Careers & Education👩‍🎓</b></h3> </br></br>
 <div>
-    <p style="font-family: 'Helvetica Neue', sans-serif; font-size: 18px; font-weight: bold;">2016.03 ~ 2023.02  대구경북과학기술원 컴퓨터공학과</p>
-    <p style="font-family: 'Helvetica Neue', sans-serif; font-size: 18px; font-weight: bold;">2017.06 ~ 2017.08  UC Berkeley 여름 교환 학생</p>
-    <p style="font-family: 'Helvetica Neue', sans-serif; font-size: 18px; font-weight: bold;">2020.12 ~ 2021.02  SSD Flash Memory 연구 인턴</p>
-    <p style="font-family: 'Helvetica Neue', sans-serif; font-size: 18px; font-weight: bold;">2021.12 ~ 2022.02  블록오디세이 블록체인 R&D 인턴</p>
-    <p style="font-family: 'Helvetica Neue', sans-serif; font-size: 18px; font-weight: bold;">2023.01 ~ 2023.08  삼성 청년 소프트웨어 아카데미</p>
+    <p>
+        <span style="font-family: 'Helvetica Neue', sans-serif; font-size: 18px; font-weight: bold; text-align: right; width: 120px; display: inline-block; margin-right: 20px; ">2016.03 ~ 2023.02</span>
+        대구경북과학기술원 컴퓨터공학과
+    </p>
+    <p>
+        <span style="font-family: 'Helvetica Neue', sans-serif; font-size: 18px; font-weight: bold; text-align: right; width: 120px; display: inline-block; margin-right: 20px;">2017.06 ~ 2017.08</span>
+        UC Berkeley 여름 교환 학생
+    </p>
+    <p>
+        <span style="font-family: 'Helvetica Neue', sans-serif; font-size: 18px; font-weight: bold; text-align: right; width: 120px; display: inline-block margin-right: 20px;;">2020.12 ~ 2021.02</span>
+        SSD Flash Memory 연구 인턴
+    </p>
+    <p>
+        <span style="font-family: 'Helvetica Neue', sans-serif; font-size: 18px; font-weight: bold; text-align: right; width: 120px; display: inline-block margin-right: 20px;;">2021.12 ~ 2022.02</span>
+        블록오디세이 블록체인 R&D 인턴
+    </p>
+    <p>
+        <span style="font-family: 'Helvetica Neue', sans-serif; font-size: 18px; font-weight: bold; text-align: right; width: 120px; display: inline-block margin-right: 20px;;">2023.01 ~ 2023.08</span>
+        삼성 청년 소프트웨어 아카데미
+    </p>
 </div>
+
   </br>
   </br>
   </br>
