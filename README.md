@@ -71,7 +71,7 @@
   </br>
   </br>
   </br>
-    <h3 align="center"><b>👩‍🎓My Careers & Education👩‍🎓</b></h3> </br></br>
+    <h3 align="center"><b>👩‍🎓My Careers & Education👩‍🎓</b></h3> </br>
 <div>
     <p>
         <span style="font-family: 'Helvetica Neue', sans-serif; font-size: 18px; font-weight: bold; text-align: right; width: 120px; display: inline-block; margin-right: 50px; ">2016.03 ~ 2023.02</span> &nbsp;&nbsp;&nbsp;
@@ -98,7 +98,7 @@
   </br>
   </br>
   </br>
-    <h3 align="center"><b>🐱‍🏍My Projects🐱‍🏍</b></h3>
+    <h3 align="center"><b>🐱‍🏍My Projects🐱‍🏍</b></h3> </br>
     <table style="border-collapse: collapse; width: 100%; height: 200px;"border="1" data-ke-align="center" align = "center">
   <tbody>
     <tr style="height: 20px;">
