@@ -72,7 +72,7 @@
   </br>
   </br>
   </br>
-    <h3 align="center"><b>🐱‍🏍My Careers🐱‍🏍</b></h3>
+    <h3 align="center"><b>🐱‍🏍My Projects🐱‍🏍</b></h3>
     <table style="border-collapse: collapse; width: 100%; height: 200px;"border="1" data-ke-align="center" align = "center">
   <tbody>
     <tr style="height: 20px;">
@@ -82,28 +82,16 @@
       <td style="width: 11%; height: 20px; text-align: center;font-weight: 800;"><b>Stack</b></td>
     </tr>
     <tr style="height: 20px;">
-      <td style="width: 14%; height: 20px; text-align: center;">Education</td>
-      <td style="width: 15%; height: 20px; text-align: center;">2016.03 ~ 2023.02</td>
-      <td style="width: 60%; height: 20px; text-align: center;">대구경북과학기술원 컴퓨터공학과</td>
-      <td style="width: 11%; height: 20px; text-align: center;">&nbsp;</td>
+      <td style="width: 14%; height: 20px; text-align: center;">AI Project</td>
+      <td style="width: 15%; height: 20px; text-align: center;">2022.10<br>~ 2022.12</td>
+      <td style="width: 60%; height: 20px; text-align: center;">Q-learning, DQN을 활용한 가상화폐 가격 예측 프로그램</td>
+      <td style="width: 11%; height: 20px; text-align: center;">Python, Jupyter Notebook</td>
     </tr>
     <tr style="height: 20px;">
-      <td style="width: 14%; height: 20px; text-align: center;">Education</td>
-      <td style="width: 15%; height: 20px; text-align: center;">2017.06<br> ~ 2017.08</td>
-      <td style="width: 60%; height: 20px; text-align: center;">UC Berkley 여름 교환 학생</td>
-      <td style="width: 11%; height: 20px; text-align: center;">&nbsp;</td>
-    </tr>
-    <tr style="height: 20px;">
-      <td style="width: 14%; height: 20px; text-align: center;">Lab<br>Intern</td>
-      <td style="width: 15%; height: 20px; text-align: center;">2020.12<br>~ 2021.02</td>
-      <td style="width: 60%; height: 20px; text-align: center;">SSD Flash Memory 연구 인턴</td>
-      <td style="width: 11%; height: 20px; text-align: center;">C++, Linux, Embedded System</td>
-    </tr>
-    <tr style="height: 20px;">
-      <td style="width: 14%; height: 20px; text-align: center;">Education</td>
-      <td style="width: 15%; height: 20px; text-align: center;">2023.01<br> ~ 2023.08</td>
-      <td style="width: 60%; height: 20px; text-align: center;">삼성 청년 소프트웨어 아카데미</td>
-      <td style="width: 11%; height: 20px; text-align: center;">&nbsp;</td>
+      <td style="width: 14%; height: 20px; text-align: center;">Web<br>Development</td>
+      <td style="width: 15%; height: 20px; text-align: center;">2022.11<br> ~ 2022.12</td>
+      <td style="width: 60%; height: 20px; text-align: center;">디지스트 재능마켓</td>
+      <td style="width: 11%; height: 20px; text-align: center;">Django, html, javascript, css, MySQL</td>
     </tr>
     <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;">Web<br>Development</td>
